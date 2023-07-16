@@ -1,66 +1,110 @@
 {
-    "quizes":[
-        {
-            "id":1,
-            "name":"DC Comics Quiz"
-        },
-        {
-            "id":2,
-            "name":"One Piece"
-        }
-
-    ],
-    "questions" :[
-        {
-            "id":1,
-            "question":"Barry Allens Wifes Name",
-            "answerOne":"Iris West",
-            "answerTwo":"Faun West",
-            "answerThree":"Sarah West",
-            "answerFour":"Carol West",
-            "correctAnswer":"Iris West",
-            "quizId":1
-        },
-        {
-            "id":2,
-            "question":"Hal Jordan Hero Name",
-            "answerOne":"Iris West",
-            "answerTwo":"Faun West",
-            "answerThree":"Sarah West",
-            "answerFour":"Green Lantern",
-            "correctAnswer":"Green Lantern",
-            "quizId":1
-        },
-        {
-            "id":3,
-            "question":"Daredevils Nickname",
-            "answerOne":"Man Without Sight",
-            "answerTwo":"Man Without Fear",
-            "answerThree":"Man Without Girlfriend",
-            "answerFour":"Man Without Jesus",
-            "correctAnswer":"Man Without Fear",
-            "quizId":1
-        },
-        {
-            "id":4,
-            "question":"Which DC Superheros Comic First Introduced The Multiverse",
-            "answerOne":"Superman",
-            "answerTwo":"Batman",
-            "answerThree":"Green Lantern",
-            "answerFour":"The Flash",
-            "correctAnswer":"The Flash",
-            "quizId":1
-        },
-        {
-            "id":5,
-            "question":"How Many Swords Does Zoro Fight With?",
-            "answerOne":"One",
-            "answerTwo":"Two",
-            "answerThree":"Three",
-            "answerFour":"Zero",
-            "correctAnswer":"Three",
-            "quizId":2
-        }
-
-    ]
+  "quizes": [
+    {
+      "id": 1,
+      "name": "DC Comics Quiz"
+    },
+    {
+      "id": 2,
+      "name": "One Piece"
+    },
+    {
+      "name": "Manga",
+      "id": 3
+    },
+    {
+      "name": "Slam Dunk",
+      "id": 4
+    },
+    {
+      "name": "Dan",
+      "id": 5
+    },
+    {
+      "name": "Sailor Moon",
+      "id": 6
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Barry Allens Wifes Name",
+      "answerOne": "Iris West",
+      "answerTwo": "Faun West",
+      "answerThree": "Sarah West",
+      "answerFour": "Carol West",
+      "correctAnswer": "Iris West",
+      "quizId": 1
+    },
+    {
+      "id": 2,
+      "question": "Hal Jordan Hero Name",
+      "answerOne": "Iris West",
+      "answerTwo": "Faun West",
+      "answerThree": "Sarah West",
+      "answerFour": "Green Lantern",
+      "correctAnswer": "Green Lantern",
+      "quizId": 1
+    },
+    {
+      "id": 3,
+      "question": "Daredevils Nickname",
+      "answerOne": "Man Without Sight",
+      "answerTwo": "Man Without Fear",
+      "answerThree": "Man Without Girlfriend",
+      "answerFour": "Man Without Jesus",
+      "correctAnswer": "Man Without Fear",
+      "quizId": 1
+    },
+    {
+      "id": 4,
+      "question": "Which DC Superheros Comic First Introduced The Multiverse",
+      "answerOne": "Superman",
+      "answerTwo": "Batman",
+      "answerThree": "Green Lantern",
+      "answerFour": "The Flash",
+      "correctAnswer": "The Flash",
+      "quizId": 1
+    },
+    {
+      "id": 5,
+      "question": "How Many Swords Does Zoro Fight With?",
+      "answerOne": "One",
+      "answerTwo": "Two",
+      "answerThree": "Three",
+      "answerFour": "Zero",
+      "correctAnswer": "Three",
+      "quizId": 2
+    },
+    {
+      "question": "What is Slam Dunk",
+      "answerOne": "A Short Story",
+      "answerTwo": "A Manga",
+      "answerThree": "A Person",
+      "answerFour": "A Movie",
+      "correctAnswer": "A Manga",
+      "quizId": "4",
+      "id": 6
+    },
+    {
+      "question": "What is Dans favorite Superhero",
+      "answerOne": "Superman",
+      "answerTwo": "Batman",
+      "answerThree": "The Flash",
+      "answerFour": "Green Arrow",
+      "correctAnswer": "The Flash",
+      "quizId": "5",
+      "id": 7
+    },
+    {
+      "question": "What is Sailor Moons real name",
+      "answerOne": "Usagi Tsukino",
+      "answerTwo": "Makino Suki",
+      "answerThree": "Sailor",
+      "answerFour": "Moon",
+      "correctAnswer": "Usagi Tsukino",
+      "quizId": "6",
+      "id": 8
+    }
+  ]
 }
